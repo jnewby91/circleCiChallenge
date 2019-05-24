@@ -10,7 +10,7 @@ describe('My First Test', function(){
     })
     //3.Click the button
     it('Shows information after the button is clicked', function(){
-        // cy.get('button').click(); 
+        cy.get('button').click(); 
         cy.get('.content p').should('exist');  
     })
     //4.Confirm that information is displayed on the page
