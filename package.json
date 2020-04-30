@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^24.8.0",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "cypress": "^3.3.1"
